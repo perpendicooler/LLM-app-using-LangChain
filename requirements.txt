@@ -3,3 +3,4 @@ openai
 langchain
 ChatOpenAI
 langchain_openai
+langchain_openai
